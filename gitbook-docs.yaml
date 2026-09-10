@@ -6,5 +6,6 @@ site:
       key: whitepaper
       title: White Paper
       path: whitepaper
+      default: true
       content:
         directory: ./
