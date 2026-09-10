@@ -1,31 +1,31 @@
-# Table of Contents
+# Table of contents
 
-* [About Planet Protocol](About-Planet-Protocol.md)
+* [About Planet Protocol](README.md)
 
-## Protocol <a href="#protocol" id="protocol"></a>
+## Protocol
 
-* [How It Works](Protocol/How-It-Works.md)
-* [Smart Contracts](Protocol/Smart-Contracts.md)
-* [EscrowVault](Protocol/EscrowVault.md)
-* [Burn-to-Claim](Protocol/Burn-to-Claim.md)
-* [Verification](Protocol/Verification.md)
+* [How It Works](protocol/how-it-works.md)
+* [Smart Contracts](protocol/smart-contracts.md)
+* [EscrowVault](protocol/escrowvault.md)
+* [Burn-to-Claim](protocol/burn-to-claim.md)
+* [Verification](protocol/verification.md)
 
-## Economics <a href="#economics" id="economics"></a>
+## Economics
 
-* [Unit Economics](Economics/Unit-Economics.md)
-* [Business Model](Economics/Business-Model.md)
-* [Originator Security](Economics/Originator-Security.md)
-* [Points Program](Economics/Points-Program.md)
+* [Unit Economics](economics/unit-economics.md)
+* [Business Model](economics/business-model.md)
+* [Originator Security](economics/originator-security.md)
+* [Points Program](economics/points-program.md)
 
-## Market <a href="#market" id="market"></a>
+## Market
 
-* [Market Opportunity](Market/Market-Opportunity.md)
-* [Why Planet](Market/Why-Planet.md)
+* [Market Opportunity](market/market-opportunity.md)
+* [Why Planet](market/why-planet.md)
 
-## Project <a href="#project" id="project"></a>
+## Project
 
-* [Roadmap](Roadmap.md)
-* [Team](Team.md)
-* [Risks](Risks.md)
-* [Legal and Compliance](Legal-and-Compliance.md)
-* [Disclaimers](Disclaimers.md)
+* [Roadmap](project/roadmap.md)
+* [Team](project/team.md)
+* [Risks](project/risks.md)
+* [Legal and Compliance](project/legal-and-compliance.md)
+* [Disclaimers](project/disclaimers.md)
