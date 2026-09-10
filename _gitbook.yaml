@@ -1,0 +1,9 @@
+root: ./
+
+structure:
+  readme: About-Planet-Protocol.md
+  summary: SUMMARY.md
+
+redirects:
+  about-aurora-protocol: About-Planet-Protocol.md
+  market/why-aurora: Market/Why-Planet.md
